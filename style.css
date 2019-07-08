@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+body {
+  margin: 0 auto;
+  background-color: #55acee;
+  font-family: 'Comfortaa', cursive;
+  color: #fff;
+  font-size: 30px;
+  padding: 50px;
+  text-align: center;
+}
+
+.button {
+    height: 40px;
+    width: 250px;
+    border: #fff 1px solid;
+    color: white;
+    background-color: #55acee;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+    margin: 30px;
+  }
+  
+  .button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    border:  rgba(0, 0, 0, 0.1);
+    transition-duration: 0.6s;
+  }
+
+ .stopwatch {
+margin: 150px 0;
+font-size: 50px;   
+  }
+
